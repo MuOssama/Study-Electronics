@@ -10,11 +10,11 @@ it contains **necleus** that has *protons* and *neurtons* it also contains **clo
   
   ![Bohr Model](https://github.com/MuOssama/Study-Electronics/blob/main/Year1/bohrModel.png)
   
-when number of electrons(-) is equal number of protons(+) this is called atom which is equillibium state\
-when atom ***lose*** electron(s) from outer shell  energy levelit called **+ion**\
-when atom ***gain*** electrons(s) from outer shell energy level it called **-ion**\
+>when number of electrons(-) is equal number of protons(+) this is called atom which is equillibium state\
+>when atom ***lose*** electron(s) from outer shell  energy levelit called **+ion**\
+>when atom ***gain*** electrons(s) from outer shell energy level it called **-ion**\
 gaining ion is reduction\
-losing ion is oxdizing\
+losing ion is oxdizing
 
 ## Electronic configuration
 if an atom has n electrons, electrons are quantized to certain levels (i.e. electrons should be on some levels not betwen levels)\
