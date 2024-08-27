@@ -8,7 +8,7 @@ it contains **necleus** that has *protons* and *neurtons* it also contains **clo
 - **Electrons** (the negative outside the nucleus)
 - **Neutrons** (neutral inside necleus to attract protons to them to prevent protons (+) to be attracted to neutrons (-) this is ture for ant elements that have move than one atomic number)\
   
-  ![Bohr Model](https://github.com/MuOssama/Study-Electronics/blob/main/Year1/bohrModel.png)
+  ![Bohr Model](https://github.com/MuOssama/Study-Electronics/blob/main/Year1/bohrModel.png)\
 when number of electrons(-) is equal number of protons(+) this is called atom which is equillibium state\
 when atom ***lose*** electron(s) from outer shell  energy levelit called **+ion**\
 when atom ***gain*** electrons(s) from outer shell energy level it called **-ion**\
