@@ -72,6 +72,7 @@ Electrons fill orbitals in this specific sequence to minimize energy:
 17. 5f  
 18. 6d  
 19. 7p
+    
 ![Electrons configuration](https://github.com/MuOssama/Study-Electronics/blob/main/Year1/electronConfiguration.png)
 
 ## Electricity 
