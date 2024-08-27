@@ -12,7 +12,8 @@ it contains **necleus** that has *protons* and *neurtons* it also contains **clo
   
 >when number of electrons(-) is equal number of protons(+) this is called atom which is equillibium state\
 >when atom ***lose*** electron(s) from outer shell  energy levelit called **+ion**\
->when atom ***gain*** electrons(s) from outer shell energy level it called **-ion**\
+>when atom ***gain*** electrons(s) from outer shell energy level it called **-ion**
+
 gaining ion is reduction\
 losing ion is oxdizing
 
