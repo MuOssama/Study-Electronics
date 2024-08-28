@@ -78,4 +78,54 @@ Electrons fill orbitals in this specific sequence to minimize energy:
 ## Electricity 
 electricity occurs when a battery of a source pushing electrons throgh conductor and electrical or electronic components\
 ***conductor*** is something that has free electrons that is steady for being pushed by other electrons coming from battery or a source\
-***battery*** has anode and cathode electrodes that push electrons from electrode and attract it from other electrode\ 
+***battery*** has anode and cathode electrodes that push electrons from electrode and attract it from other electrode
+
+# Electrical Properties and Definitions
+
+## Conductivity
+**Definition**: Conductivity is a measure of a material's ability to conduct electric current. It is the reciprocal of resistivity and indicates how easily charge carriers can move through the material.
+
+**Unit**: Siemens per meter (S/m)
+
+## Resistivity
+**Definition**: Resistivity is a measure of a material's intrinsic resistance to the flow of electric current. It is the reciprocal of conductivity and depends on the material's nature and temperature.
+
+**Unit**: Ohm meter (Ω·m)
+
+## Reactivity
+**Definition**: Reactivity in the context of materials refers to how readily a substance undergoes a chemical reaction. For electrical components, this term is less common, but in general chemistry, it describes the tendency of a substance to react with other substances.
+
+**Unit**: Reactivity does not have a specific unit, as it is a qualitative measure of how reactive a substance is.
+
+## Electrical Resistance
+**Definition**: Electrical resistance is the opposition that a material presents to the flow of electric current. It is the measure of how much a component resists the flow of current.
+
+**Unit**: Ohm (Ω)
+
+## Electrical Conductance
+**Definition**: Electrical conductance is the measure of how easily electricity flows through a material. It is the reciprocal of resistance and indicates the ease with which current can flow through a conductor.
+
+**Unit**: Siemens (S)
+
+## Permittivity
+**Definition**: Permittivity is a measure of how much electric field is reduced within a material compared to a vacuum. It indicates how a material affects the electric field in capacitors.
+
+**Unit**: Farads per meter (F/m)
+
+## Permeability
+**Definition**: Permeability is a measure of a material's ability to conduct a magnetic field. It indicates how easily a magnetic field can pass through a material.
+
+**Unit**: Henry per meter (H/m)
+
+## Impedance
+**Definition**: Impedance is the measure of how much a circuit resists the flow of alternating current (AC). It combines resistance with reactance, which is the resistance due to capacitors and inductors.
+
+**Unit**: Ohm (Ω)
+
+## Reactance
+**Definition**: Reactance is the component of impedance that arises from capacitors and inductors in an AC circuit. It represents how much a component opposes AC based on its capacitance or inductance.
+
+**Unit**: Ohm (Ω)
+
+
+
