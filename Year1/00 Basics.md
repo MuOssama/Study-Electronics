@@ -83,49 +83,50 @@ electricity occurs when a battery of a source pushing electrons throgh conductor
 # Electrical Properties and Definitions
 
 ## Conductivity
-**Definition**: Conductivity is a measure of a material's ability to conduct electric current. It is the reciprocal of resistivity and indicates how easily charge carriers can move through the material.
+**Definition**: Conductivity is a measure of a material's ability to conduct electric current. It indicates how easily charge carriers, such as electrons or holes, can move through the material.
 
 **Unit**: Siemens per meter (S/m)
 
 ## Resistivity
-**Definition**: Resistivity is a measure of a material's intrinsic resistance to the flow of electric current. It is the reciprocal of conductivity and depends on the material's nature and temperature.
+**Definition**: Resistivity is a measure of a material's intrinsic resistance to the flow of electric current. It describes how strongly a material opposes the flow of electric current.
 
 **Unit**: Ohm meter (Ω·m)
 
-## Reactivity
-**Definition**: Reactivity in the context of materials refers to how readily a substance undergoes a chemical reaction. For electrical components, this term is less common, but in general chemistry, it describes the tendency of a substance to react with other substances.
-
-**Unit**: Reactivity does not have a specific unit, as it is a qualitative measure of how reactive a substance is.
-
 ## Electrical Resistance
-**Definition**: Electrical resistance is the opposition that a material presents to the flow of electric current. It is the measure of how much a component resists the flow of current.
+**Definition**: Electrical resistance is the opposition that a material or component presents to the flow of electric current. It determines how much current will flow for a given voltage.
 
 **Unit**: Ohm (Ω)
 
 ## Electrical Conductance
-**Definition**: Electrical conductance is the measure of how easily electricity flows through a material. It is the reciprocal of resistance and indicates the ease with which current can flow through a conductor.
+**Definition**: Electrical conductance is the measure of how easily electricity flows through a material. It is the reciprocal of resistance.
 
 **Unit**: Siemens (S)
 
-## Permittivity
-**Definition**: Permittivity is a measure of how much electric field is reduced within a material compared to a vacuum. It indicates how a material affects the electric field in capacitors.
+## Reactance
+**Definition**: Reactance is the opposition that capacitors and inductors provide to the flow of alternating current (AC). It varies with the frequency of the AC signal.
 
-**Unit**: Farads per meter (F/m)
-
-## Permeability
-**Definition**: Permeability is a measure of a material's ability to conduct a magnetic field. It indicates how easily a magnetic field can pass through a material.
-
-**Unit**: Henry per meter (H/m)
+**Unit**: Ohm (Ω)
 
 ## Impedance
-**Definition**: Impedance is the measure of how much a circuit resists the flow of alternating current (AC). It combines resistance with reactance, which is the resistance due to capacitors and inductors.
+**Definition**: Impedance is the total opposition a circuit offers to the flow of alternating current (AC), combining both resistance and reactance.
 
 **Unit**: Ohm (Ω)
 
-## Reactance
-**Definition**: Reactance is the component of impedance that arises from capacitors and inductors in an AC circuit. It represents how much a component opposes AC based on its capacitance or inductance.
+## Capacitance
+**Definition**: Capacitance is the ability of a component or circuit to store electrical charge. It measures how much charge a capacitor can hold per unit voltage.
 
-**Unit**: Ohm (Ω)
+**Unit**: Farad (F)
+
+## Inductance
+**Definition**: Inductance is the property of a conductor or coil that opposes changes in current flow. It measures how effectively a coil or inductor can store energy in a magnetic field.
+
+**Unit**: Henry (H)
+
+## Power Dissipation
+**Definition**: Power dissipation refers to the conversion of electrical energy into heat within a component due to its resistance. It is an important factor in thermal management of electrical devices.
+
+**Unit**: Watts (W)
+
 
 
 
